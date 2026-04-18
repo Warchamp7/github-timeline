@@ -2,7 +2,7 @@
 
 This project visualizes open issues and pull requests on github repos over time.
 
-View the frontend hosted on [Github Pages](https://rifelpet.github.io/github-timeline/).
+View the frontend hosted on [Github Pages](https://warchamp7.github.io/github-timeline/).
 
 Data is updated daily via scheduled Github actions.
 

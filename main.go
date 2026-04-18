@@ -16,9 +16,13 @@ import (
 )
 
 type datapoint struct {
-	Day        time.Time `json:"day"`
-	OpenIssues int       `json:"open_issues"`
-	OpenPRs    int       `json:"open_prs"`
+	Day          time.Time `json:"day"`
+	OpenIssues   int       `json:"open_issues"`
+	OpenPRs      int       `json:"open_prs"`
+	NewIssues    int       `json:"new_issues"`
+	NewPRs       int       `json:"new_prs"`
+	ClosedIssues int       `json:"closed_issues"`
+	ClosedPRs    int       `json:"closed_prs"`
 }
 
 type report struct {
@@ -81,18 +85,39 @@ func main() {
 			Day: oldestDay.Add(time.Duration(i*24) * time.Hour),
 		}
 	}
+
 	for _, issue := range allIssues {
-		createdDay := time.Date(issue.CreatedAt.Year(), issue.CreatedAt.Month(), issue.CreatedAt.Day(), 0, 0, 0, 0, time.UTC)
-		closedDay := now
-		if issue.ClosedAt != nil {
-			closedDay = time.Date(issue.ClosedAt.Year(), issue.ClosedAt.Month(), issue.ClosedAt.Day(), 0, 0, 0, 0, time.UTC)
+		createdDay := time.Date(issue.GetCreatedAt().Year(), issue.GetCreatedAt().Month(), issue.GetCreatedAt().Day(), 0, 0, 0, 0, time.UTC)
+		
+		createdIdx := int(createdDay.Sub(oldestDay).Hours() / 24)
+		if issue.IsPullRequest() {
+			data[createdIdx].NewPRs++
+		} else {
+			data[createdIdx].NewIssues++
 		}
+
+		var closedDay time.Time
+		isClosed := issue.ClosedAt != nil
+		if isClosed {
+			closedDay = time.Date(issue.GetClosedAt().Year(), issue.GetClosedAt().Month(), issue.GetClosedAt().Day(), 0, 0, 0, 0, time.UTC)
+			closedIdx := int(closedDay.Sub(oldestDay).Hours() / 24)
+			if issue.IsPullRequest() {
+				data[closedIdx].ClosedPRs++
+			} else {
+				data[closedIdx].ClosedIssues++
+			}
+		} else {
+			closedDay = now
+		}
+
 		for d := createdDay; !d.After(closedDay); d = d.AddDate(0, 0, 1) {
 			index := int(d.Sub(oldestDay).Hours() / 24)
-			if issue.IsPullRequest() {
-				data[index].OpenPRs++
-			} else {
-				data[index].OpenIssues++
+			if index >= 0 && index < len(data) {
+				if issue.IsPullRequest() {
+					data[index].OpenPRs++
+				} else {
+					data[index].OpenIssues++
+				}
 			}
 		}
 	}

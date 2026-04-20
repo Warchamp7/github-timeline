@@ -41132,11 +41132,20 @@
     },
     {
       "day": "2026-04-19T00:00:00Z",
-      "open_issues": 781,
+      "open_issues": 784,
+      "open_prs": 346,
+      "new_issues": 3,
+      "new_prs": 1,
+      "closed_issues": 2,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-04-20T00:00:00Z",
+      "open_issues": 783,
       "open_prs": 345,
-      "new_issues": 0,
+      "new_issues": 1,
       "new_prs": 0,
-      "closed_issues": 0,
+      "closed_issues": 1,
       "closed_prs": 0
     }
   ]

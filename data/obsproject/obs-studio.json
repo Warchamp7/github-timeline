@@ -41141,11 +41141,20 @@
     },
     {
       "day": "2026-04-20T00:00:00Z",
-      "open_issues": 783,
-      "open_prs": 345,
-      "new_issues": 1,
-      "new_prs": 0,
-      "closed_issues": 1,
+      "open_issues": 785,
+      "open_prs": 348,
+      "new_issues": 3,
+      "new_prs": 3,
+      "closed_issues": 4,
+      "closed_prs": 3
+    },
+    {
+      "day": "2026-04-21T00:00:00Z",
+      "open_issues": 781,
+      "open_prs": 347,
+      "new_issues": 0,
+      "new_prs": 2,
+      "closed_issues": 0,
       "closed_prs": 0
     }
   ]

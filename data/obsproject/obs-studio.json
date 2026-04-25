@@ -35732,11 +35732,11 @@
     },
     {
       "day": "2024-08-27T00:00:00Z",
-      "open_issues": 530,
+      "open_issues": 529,
       "open_prs": 258,
-      "new_issues": 6,
+      "new_issues": 5,
       "new_prs": 7,
-      "closed_issues": 2,
+      "closed_issues": 1,
       "closed_prs": 3
     },
     {
@@ -41178,10 +41178,19 @@
     {
       "day": "2026-04-24T00:00:00Z",
       "open_issues": 739,
-      "open_prs": 348,
+      "open_prs": 349,
       "new_issues": 0,
-      "new_prs": 0,
+      "new_prs": 1,
       "closed_issues": 0,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-04-25T00:00:00Z",
+      "open_issues": 740,
+      "open_prs": 348,
+      "new_issues": 1,
+      "new_prs": 0,
+      "closed_issues": 1,
       "closed_prs": 0
     }
   ]

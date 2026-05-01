@@ -40989,11 +40989,11 @@
     {
       "day": "2026-04-03T00:00:00Z",
       "open_issues": 772,
-      "open_prs": 330,
+      "open_prs": 329,
       "new_issues": 2,
-      "new_prs": 2,
+      "new_prs": 1,
       "closed_issues": 0,
-      "closed_prs": 2
+      "closed_prs": 1
     },
     {
       "day": "2026-04-04T00:00:00Z",
@@ -41231,11 +41231,20 @@
     },
     {
       "day": "2026-04-30T00:00:00Z",
-      "open_issues": 744,
-      "open_prs": 350,
-      "new_issues": 1,
-      "new_prs": 0,
+      "open_issues": 747,
+      "open_prs": 353,
+      "new_issues": 4,
+      "new_prs": 3,
       "closed_issues": 1,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-05-01T00:00:00Z",
+      "open_issues": 746,
+      "open_prs": 354,
+      "new_issues": 0,
+      "new_prs": 1,
+      "closed_issues": 0,
       "closed_prs": 0
     }
   ]

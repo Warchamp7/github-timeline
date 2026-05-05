@@ -41267,11 +41267,20 @@
     },
     {
       "day": "2026-05-04T00:00:00Z",
-      "open_issues": 750,
-      "open_prs": 360,
-      "new_issues": 1,
+      "open_issues": 752,
+      "open_prs": 361,
+      "new_issues": 3,
+      "new_prs": 1,
+      "closed_issues": 3,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-05-05T00:00:00Z",
+      "open_issues": 749,
+      "open_prs": 361,
+      "new_issues": 0,
       "new_prs": 0,
-      "closed_issues": 1,
+      "closed_issues": 0,
       "closed_prs": 0
     }
   ]

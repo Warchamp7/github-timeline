@@ -41285,12 +41285,21 @@
     },
     {
       "day": "2026-05-06T00:00:00Z",
-      "open_issues": 752,
-      "open_prs": 361,
+      "open_issues": 755,
+      "open_prs": 364,
+      "new_issues": 3,
+      "new_prs": 4,
+      "closed_issues": 4,
+      "closed_prs": 9
+    },
+    {
+      "day": "2026-05-07T00:00:00Z",
+      "open_issues": 751,
+      "open_prs": 355,
       "new_issues": 0,
-      "new_prs": 1,
+      "new_prs": 0,
       "closed_issues": 0,
-      "closed_prs": 0
+      "closed_prs": 1
     }
   ]
 }

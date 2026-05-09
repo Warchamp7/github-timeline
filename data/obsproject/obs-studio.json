@@ -41303,9 +41303,18 @@
     },
     {
       "day": "2026-05-08T00:00:00Z",
-      "open_issues": 751,
+      "open_issues": 753,
+      "open_prs": 350,
+      "new_issues": 3,
+      "new_prs": 4,
+      "closed_issues": 1,
+      "closed_prs": 4
+    },
+    {
+      "day": "2026-05-09T00:00:00Z",
+      "open_issues": 752,
       "open_prs": 346,
-      "new_issues": 1,
+      "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,
       "closed_prs": 0

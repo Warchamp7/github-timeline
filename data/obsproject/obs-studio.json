@@ -41357,8 +41357,17 @@
     },
     {
       "day": "2026-05-14T00:00:00Z",
-      "open_issues": 752,
-      "open_prs": 347,
+      "open_issues": 755,
+      "open_prs": 348,
+      "new_issues": 3,
+      "new_prs": 1,
+      "closed_issues": 1,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-05-15T00:00:00Z",
+      "open_issues": 754,
+      "open_prs": 348,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,

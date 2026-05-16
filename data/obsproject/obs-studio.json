@@ -41367,10 +41367,19 @@
     {
       "day": "2026-05-15T00:00:00Z",
       "open_issues": 754,
-      "open_prs": 348,
+      "open_prs": 349,
       "new_issues": 0,
-      "new_prs": 0,
+      "new_prs": 1,
       "closed_issues": 0,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-05-16T00:00:00Z",
+      "open_issues": 755,
+      "open_prs": 348,
+      "new_issues": 1,
+      "new_prs": 0,
+      "closed_issues": 1,
       "closed_prs": 0
     }
   ]

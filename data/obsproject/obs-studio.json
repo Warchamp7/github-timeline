@@ -41672,12 +41672,21 @@
     },
     {
       "day": "2026-06-18T00:00:00Z",
-      "open_issues": 764,
+      "open_issues": 765,
+      "open_prs": 340,
+      "new_issues": 1,
+      "new_prs": 2,
+      "closed_issues": 2,
+      "closed_prs": 3
+    },
+    {
+      "day": "2026-06-19T00:00:00Z",
+      "open_issues": 763,
       "open_prs": 338,
       "new_issues": 0,
-      "new_prs": 0,
+      "new_prs": 1,
       "closed_issues": 0,
-      "closed_prs": 1
+      "closed_prs": 0
     }
   ]
 }

@@ -41681,10 +41681,19 @@
     },
     {
       "day": "2026-06-19T00:00:00Z",
-      "open_issues": 763,
-      "open_prs": 338,
+      "open_issues": 767,
+      "open_prs": 341,
+      "new_issues": 4,
+      "new_prs": 4,
+      "closed_issues": 2,
+      "closed_prs": 8
+    },
+    {
+      "day": "2026-06-20T00:00:00Z",
+      "open_issues": 765,
+      "open_prs": 333,
       "new_issues": 0,
-      "new_prs": 1,
+      "new_prs": 0,
       "closed_issues": 0,
       "closed_prs": 0
     }

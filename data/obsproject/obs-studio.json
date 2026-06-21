@@ -41690,10 +41690,19 @@
     },
     {
       "day": "2026-06-20T00:00:00Z",
+      "open_issues": 766,
+      "open_prs": 335,
+      "new_issues": 1,
+      "new_prs": 2,
+      "closed_issues": 1,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-06-21T00:00:00Z",
       "open_issues": 765,
-      "open_prs": 333,
+      "open_prs": 335,
       "new_issues": 0,
-      "new_prs": 0,
+      "new_prs": 1,
       "closed_issues": 0,
       "closed_prs": 0
     }

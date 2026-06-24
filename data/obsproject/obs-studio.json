@@ -41717,8 +41717,17 @@
     },
     {
       "day": "2026-06-23T00:00:00Z",
-      "open_issues": 767,
-      "open_prs": 336,
+      "open_issues": 769,
+      "open_prs": 340,
+      "new_issues": 2,
+      "new_prs": 4,
+      "closed_issues": 1,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-06-24T00:00:00Z",
+      "open_issues": 768,
+      "open_prs": 340,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,

@@ -41754,9 +41754,18 @@
     {
       "day": "2026-06-27T00:00:00Z",
       "open_issues": 770,
+      "open_prs": 344,
+      "new_issues": 0,
+      "new_prs": 2,
+      "closed_issues": 0,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-06-28T00:00:00Z",
+      "open_issues": 770,
       "open_prs": 343,
       "new_issues": 0,
-      "new_prs": 1,
+      "new_prs": 0,
       "closed_issues": 0,
       "closed_prs": 0
     }

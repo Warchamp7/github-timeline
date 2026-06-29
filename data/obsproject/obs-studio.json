@@ -41763,6 +41763,15 @@
     {
       "day": "2026-06-28T00:00:00Z",
       "open_issues": 770,
+      "open_prs": 344,
+      "new_issues": 0,
+      "new_prs": 1,
+      "closed_issues": 1,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-06-29T00:00:00Z",
+      "open_issues": 769,
       "open_prs": 343,
       "new_issues": 0,
       "new_prs": 0,

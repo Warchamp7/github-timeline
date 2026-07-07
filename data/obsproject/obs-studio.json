@@ -41834,10 +41834,19 @@
     },
     {
       "day": "2026-07-06T00:00:00Z",
+      "open_issues": 773,
+      "open_prs": 343,
+      "new_issues": 2,
+      "new_prs": 0,
+      "closed_issues": 2,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-07-07T00:00:00Z",
       "open_issues": 771,
       "open_prs": 343,
       "new_issues": 0,
-      "new_prs": 0,
+      "new_prs": 1,
       "closed_issues": 0,
       "closed_prs": 0
     }

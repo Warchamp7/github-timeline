@@ -41879,11 +41879,20 @@
     },
     {
       "day": "2026-07-11T00:00:00Z",
-      "open_issues": 771,
+      "open_issues": 773,
       "open_prs": 344,
-      "new_issues": 0,
+      "new_issues": 2,
       "new_prs": 1,
-      "closed_issues": 0,
+      "closed_issues": 2,
+      "closed_prs": 2
+    },
+    {
+      "day": "2026-07-12T00:00:00Z",
+      "open_issues": 772,
+      "open_prs": 342,
+      "new_issues": 1,
+      "new_prs": 0,
+      "closed_issues": 1,
       "closed_prs": 0
     }
   ]

@@ -41960,8 +41960,17 @@
     },
     {
       "day": "2026-07-20T00:00:00Z",
-      "open_issues": 773,
-      "open_prs": 353,
+      "open_issues": 774,
+      "open_prs": 356,
+      "new_issues": 1,
+      "new_prs": 3,
+      "closed_issues": 0,
+      "closed_prs": 2
+    },
+    {
+      "day": "2026-07-21T00:00:00Z",
+      "open_issues": 774,
+      "open_prs": 354,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,

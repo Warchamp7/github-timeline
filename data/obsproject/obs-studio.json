@@ -42041,11 +42041,20 @@
     },
     {
       "day": "2026-07-29T00:00:00Z",
-      "open_issues": 780,
+      "open_issues": 783,
       "open_prs": 358,
-      "new_issues": 0,
+      "new_issues": 3,
       "new_prs": 0,
-      "closed_issues": 0,
+      "closed_issues": 2,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-07-30T00:00:00Z",
+      "open_issues": 782,
+      "open_prs": 358,
+      "new_issues": 1,
+      "new_prs": 0,
+      "closed_issues": 2,
       "closed_prs": 0
     }
   ]

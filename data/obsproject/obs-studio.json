@@ -42050,11 +42050,20 @@
     },
     {
       "day": "2026-07-30T00:00:00Z",
-      "open_issues": 782,
-      "open_prs": 358,
-      "new_issues": 1,
+      "open_issues": 784,
+      "open_prs": 360,
+      "new_issues": 3,
+      "new_prs": 2,
+      "closed_issues": 3,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-07-31T00:00:00Z",
+      "open_issues": 781,
+      "open_prs": 360,
+      "new_issues": 0,
       "new_prs": 0,
-      "closed_issues": 2,
+      "closed_issues": 0,
       "closed_prs": 0
     }
   ]

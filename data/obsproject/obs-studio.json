@@ -42059,9 +42059,18 @@
     },
     {
       "day": "2026-07-31T00:00:00Z",
-      "open_issues": 781,
-      "open_prs": 360,
-      "new_issues": 0,
+      "open_issues": 786,
+      "open_prs": 365,
+      "new_issues": 5,
+      "new_prs": 5,
+      "closed_issues": 4,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-08-01T00:00:00Z",
+      "open_issues": 783,
+      "open_prs": 365,
+      "new_issues": 1,
       "new_prs": 0,
       "closed_issues": 0,
       "closed_prs": 0

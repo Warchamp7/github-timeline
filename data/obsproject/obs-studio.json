@@ -42086,11 +42086,20 @@
     },
     {
       "day": "2026-08-03T00:00:00Z",
+      "open_issues": 788,
+      "open_prs": 372,
+      "new_issues": 1,
+      "new_prs": 3,
+      "closed_issues": 2,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-08-04T00:00:00Z",
       "open_issues": 787,
-      "open_prs": 369,
-      "new_issues": 0,
+      "open_prs": 372,
+      "new_issues": 1,
       "new_prs": 0,
-      "closed_issues": 1,
+      "closed_issues": 0,
       "closed_prs": 0
     }
   ]

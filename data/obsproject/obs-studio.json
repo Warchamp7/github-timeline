@@ -42096,11 +42096,20 @@
     {
       "day": "2026-08-04T00:00:00Z",
       "open_issues": 787,
-      "open_prs": 372,
+      "open_prs": 375,
       "new_issues": 1,
+      "new_prs": 3,
+      "closed_issues": 1,
+      "closed_prs": 5
+    },
+    {
+      "day": "2026-08-05T00:00:00Z",
+      "open_issues": 786,
+      "open_prs": 370,
+      "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,
-      "closed_prs": 0
+      "closed_prs": 1
     }
   ]
 }

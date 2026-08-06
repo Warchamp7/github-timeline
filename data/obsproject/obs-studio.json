@@ -42104,12 +42104,21 @@
     },
     {
       "day": "2026-08-05T00:00:00Z",
-      "open_issues": 786,
-      "open_prs": 370,
+      "open_issues": 788,
+      "open_prs": 372,
+      "new_issues": 2,
+      "new_prs": 2,
+      "closed_issues": 0,
+      "closed_prs": 3
+    },
+    {
+      "day": "2026-08-06T00:00:00Z",
+      "open_issues": 788,
+      "open_prs": 369,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,
-      "closed_prs": 1
+      "closed_prs": 0
     }
   ]
 }

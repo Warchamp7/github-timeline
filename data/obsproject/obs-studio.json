@@ -42136,6 +42136,15 @@
       "new_issues": 0,
       "new_prs": 1,
       "closed_issues": 0,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-08-09T00:00:00Z",
+      "open_issues": 790,
+      "open_prs": 373,
+      "new_issues": 0,
+      "new_prs": 0,
+      "closed_issues": 0,
       "closed_prs": 0
     }
   ]

@@ -42149,8 +42149,17 @@
     },
     {
       "day": "2026-08-10T00:00:00Z",
-      "open_issues": 791,
-      "open_prs": 374,
+      "open_issues": 792,
+      "open_prs": 377,
+      "new_issues": 1,
+      "new_prs": 3,
+      "closed_issues": 0,
+      "closed_prs": 4
+    },
+    {
+      "day": "2026-08-11T00:00:00Z",
+      "open_issues": 792,
+      "open_prs": 373,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,

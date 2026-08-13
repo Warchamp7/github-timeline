@@ -42167,8 +42167,17 @@
     },
     {
       "day": "2026-08-12T00:00:00Z",
-      "open_issues": 793,
-      "open_prs": 373,
+      "open_issues": 794,
+      "open_prs": 375,
+      "new_issues": 2,
+      "new_prs": 2,
+      "closed_issues": 0,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-08-13T00:00:00Z",
+      "open_issues": 795,
+      "open_prs": 375,
       "new_issues": 1,
       "new_prs": 0,
       "closed_issues": 0,

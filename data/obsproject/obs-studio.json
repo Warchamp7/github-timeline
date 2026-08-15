@@ -42185,10 +42185,19 @@
     },
     {
       "day": "2026-08-14T00:00:00Z",
-      "open_issues": 797,
-      "open_prs": 373,
-      "new_issues": 1,
-      "new_prs": 0,
+      "open_issues": 799,
+      "open_prs": 375,
+      "new_issues": 3,
+      "new_prs": 2,
+      "closed_issues": 1,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-08-15T00:00:00Z",
+      "open_issues": 798,
+      "open_prs": 375,
+      "new_issues": 0,
+      "new_prs": 1,
       "closed_issues": 0,
       "closed_prs": 0
     }

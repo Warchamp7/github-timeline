@@ -42203,10 +42203,19 @@
     },
     {
       "day": "2026-08-16T00:00:00Z",
-      "open_issues": 798,
+      "open_issues": 800,
       "open_prs": 375,
-      "new_issues": 0,
+      "new_issues": 2,
       "new_prs": 0,
+      "closed_issues": 2,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-08-17T00:00:00Z",
+      "open_issues": 798,
+      "open_prs": 377,
+      "new_issues": 0,
+      "new_prs": 2,
       "closed_issues": 0,
       "closed_prs": 0
     }

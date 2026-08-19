@@ -42222,11 +42222,20 @@
     {
       "day": "2026-08-18T00:00:00Z",
       "open_issues": 798,
-      "open_prs": 379,
+      "open_prs": 381,
       "new_issues": 0,
-      "new_prs": 0,
+      "new_prs": 2,
       "closed_issues": 0,
-      "closed_prs": 0
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-08-19T00:00:00Z",
+      "open_issues": 799,
+      "open_prs": 381,
+      "new_issues": 1,
+      "new_prs": 1,
+      "closed_issues": 0,
+      "closed_prs": 1
     }
   ]
 }

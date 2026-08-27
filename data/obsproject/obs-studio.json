@@ -1326,20 +1326,20 @@
     {
       "day": "2014-03-10T00:00:00Z",
       "open_issues": 2,
-      "open_prs": 0,
+      "open_prs": 1,
       "new_issues": 0,
-      "new_prs": 0,
+      "new_prs": 1,
       "closed_issues": 0,
       "closed_prs": 0
     },
     {
       "day": "2014-03-11T00:00:00Z",
       "open_issues": 2,
-      "open_prs": 0,
+      "open_prs": 1,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,
-      "closed_prs": 0
+      "closed_prs": 1
     },
     {
       "day": "2014-03-12T00:00:00Z",
@@ -42293,11 +42293,20 @@
     },
     {
       "day": "2026-08-26T00:00:00Z",
-      "open_issues": 800,
-      "open_prs": 363,
-      "new_issues": 0,
+      "open_issues": 803,
+      "open_prs": 366,
+      "new_issues": 3,
+      "new_prs": 3,
+      "closed_issues": 2,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-08-27T00:00:00Z",
+      "open_issues": 802,
+      "open_prs": 365,
+      "new_issues": 1,
       "new_prs": 0,
-      "closed_issues": 0,
+      "closed_issues": 1,
       "closed_prs": 0
     }
   ]

@@ -42320,12 +42320,21 @@
     },
     {
       "day": "2026-08-29T00:00:00Z",
-      "open_issues": 800,
-      "open_prs": 369,
-      "new_issues": 1,
-      "new_prs": 1,
+      "open_issues": 802,
+      "open_prs": 370,
+      "new_issues": 3,
+      "new_prs": 2,
       "closed_issues": 1,
       "closed_prs": 1
+    },
+    {
+      "day": "2026-08-30T00:00:00Z",
+      "open_issues": 801,
+      "open_prs": 369,
+      "new_issues": 0,
+      "new_prs": 0,
+      "closed_issues": 0,
+      "closed_prs": 0
     }
   ]
 }

@@ -42330,7 +42330,16 @@
     {
       "day": "2026-08-30T00:00:00Z",
       "open_issues": 801,
-      "open_prs": 369,
+      "open_prs": 372,
+      "new_issues": 0,
+      "new_prs": 3,
+      "closed_issues": 1,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-08-31T00:00:00Z",
+      "open_issues": 800,
+      "open_prs": 371,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,

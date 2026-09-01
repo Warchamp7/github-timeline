@@ -42338,10 +42338,19 @@
     },
     {
       "day": "2026-08-31T00:00:00Z",
-      "open_issues": 800,
-      "open_prs": 371,
+      "open_issues": 802,
+      "open_prs": 378,
+      "new_issues": 2,
+      "new_prs": 7,
+      "closed_issues": 1,
+      "closed_prs": 6
+    },
+    {
+      "day": "2026-09-01T00:00:00Z",
+      "open_issues": 801,
+      "open_prs": 373,
       "new_issues": 0,
-      "new_prs": 0,
+      "new_prs": 1,
       "closed_issues": 0,
       "closed_prs": 0
     }

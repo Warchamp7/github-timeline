@@ -42356,12 +42356,21 @@
     },
     {
       "day": "2026-09-02T00:00:00Z",
-      "open_issues": 800,
-      "open_prs": 364,
+      "open_issues": 802,
+      "open_prs": 366,
+      "new_issues": 3,
+      "new_prs": 3,
+      "closed_issues": 1,
+      "closed_prs": 5
+    },
+    {
+      "day": "2026-09-03T00:00:00Z",
+      "open_issues": 802,
+      "open_prs": 361,
       "new_issues": 1,
-      "new_prs": 1,
+      "new_prs": 0,
       "closed_issues": 0,
-      "closed_prs": 2
+      "closed_prs": 0
     }
   ]
 }

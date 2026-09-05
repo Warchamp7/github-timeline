@@ -42374,8 +42374,17 @@
     },
     {
       "day": "2026-09-04T00:00:00Z",
+      "open_issues": 806,
+      "open_prs": 366,
+      "new_issues": 2,
+      "new_prs": 2,
+      "closed_issues": 2,
+      "closed_prs": 3
+    },
+    {
+      "day": "2026-09-05T00:00:00Z",
       "open_issues": 804,
-      "open_prs": 364,
+      "open_prs": 363,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,

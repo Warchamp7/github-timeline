@@ -42383,7 +42383,16 @@
     },
     {
       "day": "2026-09-05T00:00:00Z",
-      "open_issues": 804,
+      "open_issues": 806,
+      "open_prs": 363,
+      "new_issues": 2,
+      "new_prs": 0,
+      "closed_issues": 1,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-09-06T00:00:00Z",
+      "open_issues": 805,
       "open_prs": 363,
       "new_issues": 0,
       "new_prs": 0,

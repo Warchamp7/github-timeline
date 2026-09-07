@@ -42393,7 +42393,16 @@
     {
       "day": "2026-09-06T00:00:00Z",
       "open_issues": 805,
-      "open_prs": 363,
+      "open_prs": 364,
+      "new_issues": 0,
+      "new_prs": 1,
+      "closed_issues": 0,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-09-07T00:00:00Z",
+      "open_issues": 805,
+      "open_prs": 364,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,

@@ -42456,6 +42456,15 @@
     {
       "day": "2026-09-13T00:00:00Z",
       "open_issues": 809,
+      "open_prs": 340,
+      "new_issues": 0,
+      "new_prs": 1,
+      "closed_issues": 0,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-09-14T00:00:00Z",
+      "open_issues": 809,
       "open_prs": 339,
       "new_issues": 0,
       "new_prs": 0,

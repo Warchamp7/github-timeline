@@ -42474,11 +42474,20 @@
     {
       "day": "2026-09-15T00:00:00Z",
       "open_issues": 811,
-      "open_prs": 332,
+      "open_prs": 334,
       "new_issues": 0,
-      "new_prs": 2,
+      "new_prs": 4,
       "closed_issues": 0,
-      "closed_prs": 1
+      "closed_prs": 3
+    },
+    {
+      "day": "2026-09-16T00:00:00Z",
+      "open_issues": 811,
+      "open_prs": 331,
+      "new_issues": 0,
+      "new_prs": 0,
+      "closed_issues": 0,
+      "closed_prs": 0
     }
   ]
 }

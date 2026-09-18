@@ -42491,12 +42491,21 @@
     },
     {
       "day": "2026-09-17T00:00:00Z",
-      "open_issues": 812,
-      "open_prs": 332,
-      "new_issues": 0,
-      "new_prs": 0,
+      "open_issues": 814,
+      "open_prs": 333,
+      "new_issues": 2,
+      "new_prs": 1,
       "closed_issues": 0,
-      "closed_prs": 0
+      "closed_prs": 2
+    },
+    {
+      "day": "2026-09-18T00:00:00Z",
+      "open_issues": 815,
+      "open_prs": 332,
+      "new_issues": 1,
+      "new_prs": 1,
+      "closed_issues": 1,
+      "closed_prs": 1
     }
   ]
 }

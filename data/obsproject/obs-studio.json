@@ -42546,11 +42546,20 @@
     {
       "day": "2026-09-23T00:00:00Z",
       "open_issues": 814,
-      "open_prs": 324,
+      "open_prs": 326,
       "new_issues": 0,
-      "new_prs": 1,
+      "new_prs": 3,
       "closed_issues": 0,
-      "closed_prs": 1
+      "closed_prs": 4
+    },
+    {
+      "day": "2026-09-24T00:00:00Z",
+      "open_issues": 814,
+      "open_prs": 322,
+      "new_issues": 0,
+      "new_prs": 0,
+      "closed_issues": 0,
+      "closed_prs": 6
     }
   ]
 }

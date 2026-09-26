@@ -42563,12 +42563,21 @@
     },
     {
       "day": "2026-09-25T00:00:00Z",
-      "open_issues": 815,
-      "open_prs": 316,
+      "open_issues": 818,
+      "open_prs": 318,
+      "new_issues": 3,
+      "new_prs": 4,
+      "closed_issues": 1,
+      "closed_prs": 4
+    },
+    {
+      "day": "2026-09-26T00:00:00Z",
+      "open_issues": 817,
+      "open_prs": 314,
       "new_issues": 0,
-      "new_prs": 2,
+      "new_prs": 0,
       "closed_issues": 0,
-      "closed_prs": 2
+      "closed_prs": 0
     }
   ]
 }

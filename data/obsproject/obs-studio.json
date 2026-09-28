@@ -42587,6 +42587,15 @@
       "new_prs": 0,
       "closed_issues": 0,
       "closed_prs": 0
+    },
+    {
+      "day": "2026-09-28T00:00:00Z",
+      "open_issues": 821,
+      "open_prs": 316,
+      "new_issues": 1,
+      "new_prs": 1,
+      "closed_issues": 0,
+      "closed_prs": 0
     }
   ]
 }

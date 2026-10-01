@@ -42612,8 +42612,17 @@
       "open_prs": 328,
       "new_issues": 1,
       "new_prs": 2,
+      "closed_issues": 3,
+      "closed_prs": 9
+    },
+    {
+      "day": "2026-10-01T00:00:00Z",
+      "open_issues": 826,
+      "open_prs": 321,
+      "new_issues": 3,
+      "new_prs": 2,
       "closed_issues": 0,
-      "closed_prs": 6
+      "closed_prs": 0
     }
   ]
 }

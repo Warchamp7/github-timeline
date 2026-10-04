@@ -42635,8 +42635,17 @@
     },
     {
       "day": "2026-10-03T00:00:00Z",
-      "open_issues": 824,
-      "open_prs": 321,
+      "open_issues": 825,
+      "open_prs": 324,
+      "new_issues": 1,
+      "new_prs": 3,
+      "closed_issues": 0,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-10-04T00:00:00Z",
+      "open_issues": 825,
+      "open_prs": 323,
       "new_issues": 0,
       "new_prs": 0,
       "closed_issues": 0,

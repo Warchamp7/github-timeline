@@ -42681,11 +42681,20 @@
     {
       "day": "2026-10-08T00:00:00Z",
       "open_issues": 823,
-      "open_prs": 328,
+      "open_prs": 331,
       "new_issues": 0,
-      "new_prs": 0,
+      "new_prs": 3,
+      "closed_issues": 3,
+      "closed_prs": 9
+    },
+    {
+      "day": "2026-10-09T00:00:00Z",
+      "open_issues": 820,
+      "open_prs": 323,
+      "new_issues": 0,
+      "new_prs": 1,
       "closed_issues": 0,
-      "closed_prs": 2
+      "closed_prs": 0
     }
   ]
 }

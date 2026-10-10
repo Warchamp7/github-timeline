@@ -42689,12 +42689,21 @@
     },
     {
       "day": "2026-10-09T00:00:00Z",
-      "open_issues": 820,
-      "open_prs": 323,
-      "new_issues": 0,
-      "new_prs": 1,
+      "open_issues": 822,
+      "open_prs": 325,
+      "new_issues": 2,
+      "new_prs": 3,
       "closed_issues": 0,
       "closed_prs": 0
+    },
+    {
+      "day": "2026-10-10T00:00:00Z",
+      "open_issues": 822,
+      "open_prs": 325,
+      "new_issues": 0,
+      "new_prs": 0,
+      "closed_issues": 0,
+      "closed_prs": 1
     }
   ]
 }

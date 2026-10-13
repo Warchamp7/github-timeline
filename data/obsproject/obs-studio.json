@@ -38775,20 +38775,20 @@
     {
       "day": "2025-07-31T00:00:00Z",
       "open_issues": 662,
-      "open_prs": 338,
+      "open_prs": 337,
       "new_issues": 5,
-      "new_prs": 2,
+      "new_prs": 1,
       "closed_issues": 3,
       "closed_prs": 4
     },
     {
       "day": "2025-08-01T00:00:00Z",
       "open_issues": 661,
-      "open_prs": 338,
+      "open_prs": 337,
       "new_issues": 2,
       "new_prs": 4,
       "closed_issues": 0,
-      "closed_prs": 6
+      "closed_prs": 5
     },
     {
       "day": "2025-08-02T00:00:00Z",
@@ -42716,11 +42716,20 @@
     },
     {
       "day": "2026-10-12T00:00:00Z",
-      "open_issues": 825,
-      "open_prs": 326,
-      "new_issues": 1,
-      "new_prs": 1,
-      "closed_issues": 2,
+      "open_issues": 827,
+      "open_prs": 327,
+      "new_issues": 3,
+      "new_prs": 2,
+      "closed_issues": 4,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-10-13T00:00:00Z",
+      "open_issues": 823,
+      "open_prs": 327,
+      "new_issues": 0,
+      "new_prs": 0,
+      "closed_issues": 0,
       "closed_prs": 0
     }
   ]

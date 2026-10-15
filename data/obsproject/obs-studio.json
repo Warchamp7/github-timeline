@@ -42734,10 +42734,19 @@
     },
     {
       "day": "2026-10-14T00:00:00Z",
-      "open_issues": 824,
-      "open_prs": 329,
+      "open_issues": 826,
+      "open_prs": 332,
+      "new_issues": 2,
+      "new_prs": 4,
+      "closed_issues": 1,
+      "closed_prs": 5
+    },
+    {
+      "day": "2026-10-15T00:00:00Z",
+      "open_issues": 825,
+      "open_prs": 327,
       "new_issues": 0,
-      "new_prs": 1,
+      "new_prs": 0,
       "closed_issues": 0,
       "closed_prs": 0
     }

@@ -42762,9 +42762,18 @@
     {
       "day": "2026-10-17T00:00:00Z",
       "open_issues": 826,
-      "open_prs": 327,
+      "open_prs": 331,
       "new_issues": 1,
-      "new_prs": 0,
+      "new_prs": 4,
+      "closed_issues": 1,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-10-18T00:00:00Z",
+      "open_issues": 825,
+      "open_prs": 333,
+      "new_issues": 0,
+      "new_prs": 2,
       "closed_issues": 0,
       "closed_prs": 0
     }

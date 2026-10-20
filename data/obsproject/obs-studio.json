@@ -42779,10 +42779,19 @@
     },
     {
       "day": "2026-10-19T00:00:00Z",
-      "open_issues": 826,
-      "open_prs": 336,
+      "open_issues": 827,
+      "open_prs": 338,
+      "new_issues": 1,
+      "new_prs": 3,
+      "closed_issues": 0,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-10-20T00:00:00Z",
+      "open_issues": 827,
+      "open_prs": 340,
       "new_issues": 0,
-      "new_prs": 1,
+      "new_prs": 3,
       "closed_issues": 0,
       "closed_prs": 0
     }

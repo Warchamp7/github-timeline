@@ -42788,10 +42788,19 @@
     },
     {
       "day": "2026-10-20T00:00:00Z",
-      "open_issues": 827,
+      "open_issues": 828,
+      "open_prs": 342,
+      "new_issues": 1,
+      "new_prs": 5,
+      "closed_issues": 0,
+      "closed_prs": 2
+    },
+    {
+      "day": "2026-10-21T00:00:00Z",
+      "open_issues": 828,
       "open_prs": 340,
       "new_issues": 0,
-      "new_prs": 3,
+      "new_prs": 0,
       "closed_issues": 0,
       "closed_prs": 0
     }

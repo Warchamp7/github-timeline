@@ -42420,11 +42420,11 @@
     {
       "day": "2026-09-09T00:00:00Z",
       "open_issues": 808,
-      "open_prs": 366,
+      "open_prs": 365,
       "new_issues": 1,
-      "new_prs": 3,
+      "new_prs": 2,
       "closed_issues": 1,
-      "closed_prs": 20
+      "closed_prs": 19
     },
     {
       "day": "2026-09-10T00:00:00Z",
@@ -42860,10 +42860,19 @@
     },
     {
       "day": "2026-10-28T00:00:00Z",
-      "open_issues": 834,
-      "open_prs": 347,
-      "new_issues": 0,
-      "new_prs": 0,
+      "open_issues": 835,
+      "open_prs": 350,
+      "new_issues": 1,
+      "new_prs": 3,
+      "closed_issues": 0,
+      "closed_prs": 2
+    },
+    {
+      "day": "2026-10-29T00:00:00Z",
+      "open_issues": 837,
+      "open_prs": 349,
+      "new_issues": 2,
+      "new_prs": 1,
       "closed_issues": 0,
       "closed_prs": 0
     }

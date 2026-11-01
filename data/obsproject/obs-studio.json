@@ -42887,12 +42887,21 @@
     },
     {
       "day": "2026-10-31T00:00:00Z",
-      "open_issues": 839,
+      "open_issues": 841,
       "open_prs": 352,
+      "new_issues": 3,
+      "new_prs": 1,
+      "closed_issues": 1,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-11-01T00:00:00Z",
+      "open_issues": 841,
+      "open_prs": 353,
       "new_issues": 1,
       "new_prs": 1,
       "closed_issues": 0,
-      "closed_prs": 0
+      "closed_prs": 1
     }
   ]
 }

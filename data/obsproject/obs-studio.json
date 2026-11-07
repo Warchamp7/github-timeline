@@ -42941,8 +42941,17 @@
     },
     {
       "day": "2026-11-06T00:00:00Z",
-      "open_issues": 853,
-      "open_prs": 357,
+      "open_issues": 855,
+      "open_prs": 360,
+      "new_issues": 3,
+      "new_prs": 4,
+      "closed_issues": 1,
+      "closed_prs": 2
+    },
+    {
+      "day": "2026-11-07T00:00:00Z",
+      "open_issues": 855,
+      "open_prs": 359,
       "new_issues": 1,
       "new_prs": 1,
       "closed_issues": 1,

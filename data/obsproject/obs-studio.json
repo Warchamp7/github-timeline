@@ -42951,10 +42951,19 @@
     {
       "day": "2026-11-07T00:00:00Z",
       "open_issues": 855,
-      "open_prs": 359,
+      "open_prs": 361,
       "new_issues": 1,
-      "new_prs": 1,
+      "new_prs": 3,
       "closed_issues": 1,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-11-08T00:00:00Z",
+      "open_issues": 857,
+      "open_prs": 361,
+      "new_issues": 3,
+      "new_prs": 1,
+      "closed_issues": 2,
       "closed_prs": 0
     }
   ]

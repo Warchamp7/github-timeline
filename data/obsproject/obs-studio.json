@@ -42977,10 +42977,19 @@
     },
     {
       "day": "2026-11-10T00:00:00Z",
-      "open_issues": 853,
+      "open_issues": 854,
       "open_prs": 353,
-      "new_issues": 0,
+      "new_issues": 1,
       "new_prs": 1,
+      "closed_issues": 3,
+      "closed_prs": 9
+    },
+    {
+      "day": "2026-11-11T00:00:00Z",
+      "open_issues": 851,
+      "open_prs": 344,
+      "new_issues": 0,
+      "new_prs": 0,
       "closed_issues": 0,
       "closed_prs": 0
     }

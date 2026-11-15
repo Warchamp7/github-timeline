@@ -43013,11 +43013,20 @@
     },
     {
       "day": "2026-11-14T00:00:00Z",
-      "open_issues": 856,
-      "open_prs": 349,
-      "new_issues": 0,
+      "open_issues": 858,
+      "open_prs": 352,
+      "new_issues": 2,
+      "new_prs": 3,
+      "closed_issues": 2,
+      "closed_prs": 1
+    },
+    {
+      "day": "2026-11-15T00:00:00Z",
+      "open_issues": 857,
+      "open_prs": 351,
+      "new_issues": 1,
       "new_prs": 0,
-      "closed_issues": 0,
+      "closed_issues": 1,
       "closed_prs": 0
     }
   ]

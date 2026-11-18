@@ -33671,11 +33671,11 @@
     },
     {
       "day": "2024-01-11T00:00:00Z",
-      "open_issues": 437,
+      "open_issues": 436,
       "open_prs": 195,
-      "new_issues": 1,
+      "new_issues": 0,
       "new_prs": 3,
-      "closed_issues": 2,
+      "closed_issues": 1,
       "closed_prs": 3
     },
     {
@@ -43040,12 +43040,21 @@
     },
     {
       "day": "2026-11-17T00:00:00Z",
-      "open_issues": 856,
-      "open_prs": 355,
+      "open_issues": 859,
+      "open_prs": 359,
+      "new_issues": 3,
+      "new_prs": 6,
+      "closed_issues": 7,
+      "closed_prs": 3
+    },
+    {
+      "day": "2026-11-18T00:00:00Z",
+      "open_issues": 852,
+      "open_prs": 356,
       "new_issues": 0,
-      "new_prs": 2,
-      "closed_issues": 0,
-      "closed_prs": 1
+      "new_prs": 0,
+      "closed_issues": 1,
+      "closed_prs": 2
     }
   ]
 }

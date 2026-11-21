@@ -27048,20 +27048,20 @@
     {
       "day": "2022-01-05T00:00:00Z",
       "open_issues": 470,
-      "open_prs": 149,
+      "open_prs": 150,
       "new_issues": 1,
-      "new_prs": 3,
+      "new_prs": 4,
       "closed_issues": 1,
       "closed_prs": 3
     },
     {
       "day": "2022-01-06T00:00:00Z",
       "open_issues": 471,
-      "open_prs": 149,
+      "open_prs": 150,
       "new_issues": 2,
       "new_prs": 3,
       "closed_issues": 0,
-      "closed_prs": 2
+      "closed_prs": 3
     },
     {
       "day": "2022-01-07T00:00:00Z",
@@ -43067,12 +43067,21 @@
     },
     {
       "day": "2026-11-20T00:00:00Z",
-      "open_issues": 854,
+      "open_issues": 855,
       "open_prs": 355,
-      "new_issues": 0,
+      "new_issues": 1,
       "new_prs": 0,
       "closed_issues": 0,
       "closed_prs": 2
+    },
+    {
+      "day": "2026-11-21T00:00:00Z",
+      "open_issues": 857,
+      "open_prs": 354,
+      "new_issues": 2,
+      "new_prs": 1,
+      "closed_issues": 1,
+      "closed_prs": 0
     }
   ]
 }

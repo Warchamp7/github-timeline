@@ -43103,6 +43103,15 @@
     },
     {
       "day": "2026-11-24T00:00:00Z",
+      "open_issues": 861,
+      "open_prs": 358,
+      "new_issues": 2,
+      "new_prs": 0,
+      "closed_issues": 2,
+      "closed_prs": 0
+    },
+    {
+      "day": "2026-11-25T00:00:00Z",
       "open_issues": 859,
       "open_prs": 358,
       "new_issues": 0,

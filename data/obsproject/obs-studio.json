@@ -43130,12 +43130,21 @@
     },
     {
       "day": "2026-11-27T00:00:00Z",
-      "open_issues": 860,
-      "open_prs": 360,
-      "new_issues": 1,
-      "new_prs": 1,
+      "open_issues": 863,
+      "open_prs": 361,
+      "new_issues": 4,
+      "new_prs": 2,
+      "closed_issues": 2,
+      "closed_prs": 2
+    },
+    {
+      "day": "2026-11-28T00:00:00Z",
+      "open_issues": 861,
+      "open_prs": 359,
+      "new_issues": 0,
+      "new_prs": 0,
       "closed_issues": 0,
-      "closed_prs": 1
+      "closed_prs": 0
     }
   ]
 }
